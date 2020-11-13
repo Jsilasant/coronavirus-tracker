@@ -8,7 +8,7 @@
 		<version>2.3.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>io.javabrains</groupId>
+	<groupId>io.jj</groupId>
 	<artifactId>coronavirus-tracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>coronavirus-tracker</name>
